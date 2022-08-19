@@ -32,6 +32,7 @@ Initial coding was performed by CWRU educational staff. Current revisions have b
 
 ## Project status
 Revisions for accessibility and general functionality were made in this release. 
+The location for this project is https://github.com/lisa3swain/Challenge1_LSwain.
 
 # Challenge1_LSwain
 This is a refactoring challenge for CWRU Full Stack Bootcamp
